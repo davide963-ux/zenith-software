@@ -10,6 +10,6 @@ Open `index.html` in a browser. Three.js (r128) loads from cdnjs and the fonts
 
 ## Before going live
 
-- Replace the placeholder email `hello@zenithsoftware.example`.
+- Contact email is `contact@zenith-software.tech` (set in the contact section of `index.html`).
 - Check the pricing timelines and FAQ answers match how you work.
 - The contact section shows an email with a copy button; there is no form backend.
